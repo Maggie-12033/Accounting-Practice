@@ -1,0 +1,13 @@
+# Excel 锁文件
+~$*.xlsx
+
+# Python 缓存
+__pycache__/
+*.pyc
+
+# 虚拟环境
+venv/
+.venv/
+
+# 环境变量文件
+.env
